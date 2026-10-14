@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CÉU</string>
+    <string name="title_ceu">CÉU</string>
+    <string name="subtitle_phase">Fase 1 · núcleo simulado</string>
+    <string name="banner_limits">Entrada só por texto. Ações simuladas. Autorização nega por padrão. Sem rede, sem voz e sem ação real do sistema.</string>
+    <string name="input_label">Comando</string>
+    <string name="action_send">Enviar</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="response_empty">Nenhuma resposta ainda. Envie “ajuda”.</string>
+    <string name="response_region">Resposta do CÉU</string>
+    <string name="state_label">Estado</string>
+    <string name="pending_none">Sem confirmação pendente</string>
+    <string name="pending_active">Confirmação pendente: %1$s · %2$d s · ref %3$s</string>
+    <string name="pending_expired">Confirmação pendente: %1$s · expirada · ref %2$s</string>
+    <string name="audit_label">Auditoria em memória</string>
+    <string name="audit_empty">Sem registros.</string>
+</resources>
